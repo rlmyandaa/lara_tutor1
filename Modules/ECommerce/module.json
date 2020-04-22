@@ -1,0 +1,13 @@
+{
+    "name": "ECommerce",
+    "alias": "ecommerce",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\ECommerce\\Providers\\ECommerceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

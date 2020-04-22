@@ -1,0 +1,13 @@
+{
+    "name": "NamaModule",
+    "alias": "namamodule",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\NamaModule\\Providers\\NamaModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
